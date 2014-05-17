@@ -1,0 +1,9 @@
+{
+  "name": "medium-add-menu",
+  "version": "0.0.0",
+  "dependencies": {
+    "medium-editor": "~1.8.8",
+    "jquery": "1.9.0 - 2.0.3",
+    "underscore": "~1.6.0"
+  }
+}
